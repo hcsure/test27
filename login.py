@@ -5,7 +5,10 @@ def laugh():
 
 
 print('呵呵')
-# ====>回退<=======
 
 
 print('哈哈')
+
+
+
+weight = '80kg'
