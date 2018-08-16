@@ -1,5 +1,6 @@
 name = 'laowang'
 age = 18
 height = '175cm'
-id = 33`
-id =18
+id1 = 33`
+id2 =18
+id4 = 23
